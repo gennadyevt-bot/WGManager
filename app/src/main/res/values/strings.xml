@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WG Manager</string>
+    <string name="vpn_status_disconnected">Disconnected</string>
+    <string name="vpn_status_connecting">Connecting…</string>
+    <string name="vpn_status_connected">Connected</string>
+    <string name="server_label">Server</string>
+    <string name="server_name">DE-FRA-01</string>
+    <string name="tap_to_connect">Tap to connect</string>
+</resources>
