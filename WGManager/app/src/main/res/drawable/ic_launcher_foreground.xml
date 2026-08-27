@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Dark background -->
+    <path
+        android:fillColor="#1a1a1a"
+        android:pathData="M0,0h108v108h-108z"/>
+
+    <!-- Red 3D button base -->
+    <path
+        android:fillColor="#d32f2f"
+        android:pathData="M18,18h72a10,10 0,0 1,10 10v52a10,10 0,0 1,-10 10h-72a10,10 0,0 1,-10 -10v-52a10,10 0,0 1,10 -10z"/>
+
+    <!-- Top glossy highlight -->
+    <path
+        android:fillColor="#ff6659"
+        android:pathData="M18,18h72a10,10 0,0 1,10 10v28a4,4 0,0 1,-4 4h-74a4,4 0,0 1,-4 -4v-28a10,10 0,0 1,10 -10z"/>
+
+    <!-- Soft oval glare -->
+    <path
+        android:fillColor="#ff8a80"
+        android:pathData="M28,28a15,8 0,1 1,30 0a15,8 0,1 1,-30 0z"/>
+
+    <!-- Bottom shadow -->
+    <path
+        android:fillColor="#9a0007"
+        android:pathData="M18,72h72v8a10,10 0,0 1,-10 10h-52a10,10 0,0 1,-10 -10z"/>
+
+    <!-- VPN text (simplified paths) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,55 L30,45 L34,45 L37,51 L40,45 L44,45 L44,55 L41,55 L41,48 L38,55 L36,55 L33,48 L33,55 Z M46,45 L50,45 L52,52 L54,45 L58,45 L58,55 L55,55 L55,48 L53,55 L51,55 L49,48 L49,55 Z M60,45 L68,45 L68,48 L63,48 L63,49 L67,49 L67,52 L63,52 L63,55 L60,55 Z"/>
+</vector>
